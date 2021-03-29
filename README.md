@@ -1,6 +1,6 @@
 9조정박，왕열정 ，곡우환
-1.프로젝트명 Weather forecasting system 
-（사이트 https://nevonprojects.com/weather-forecasting-using-data-mining/）
+1.프로젝트명 Weather forecasting system /n
+（사이트https://nevonprojects.com/weather-forecasting-using-data-mining/）/n
 
 2.프로젝트소개
   사용자는 위치의 현재 파라미터를 수동으로 입력하며,시스템은 데이터베이스에 저장된 역사적 데이터를 
